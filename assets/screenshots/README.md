@@ -1,5 +1,18 @@
 Power BI Dashboard – RH Insights
 
+# Captures du dashboard
+
+![Vue d'ensemble](01-home.png)
+
+*Page Home — 1 470 employés, 92 % en poste, 8 % de départs. 4,9 % de l'effectif éligible à une promotion.*
+
+![Page Action](02-action.png)
+
+*Page Action — liste nominative des promotions et des départs, exploitable par les RH.*
+
+![Page Détail](03-detail.png)
+
+*Page Détail — croisement satisfaction, heures supplémentaires et département.*
 🇫🇷 Présentation du projet
 
 Ce projet a été réalisé dans le cadre de ma formation en ingénierie des données.
